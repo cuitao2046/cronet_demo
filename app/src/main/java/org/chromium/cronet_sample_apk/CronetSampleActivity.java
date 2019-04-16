@@ -24,7 +24,7 @@ import android.widget.TextView;
 public class CronetSampleActivity extends Activity {
     private static final String TAG = CronetSampleActivity.class.getSimpleName();
 
-    private String mUrl = "https://www.example.org/";
+    private String mUrl = "http://www.example.org/";
     private TextView mResultText;
     private TextView mReceiveDataText;
 
