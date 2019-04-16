@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Mon Apr 08 11:43:22 CST 2019
+2.base=/Users/cuitao/code/build/cronet-testapp/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=lib/x86_64/libcronet.75.0.3756.0.so
+2.baseType=DIRECTORY
+3.base=/Users/cuitao/code/build/cronet-testapp/app/build/intermediates/transforms/stripDebugSymbol/debug/0
+2.set=DEX
+1.path=classes2.dex
+4.base=/Users/cuitao/code/build/cronet-testapp/app/build/intermediates/transforms/stripDebugSymbol/debug/0
+count=5
+2.path=classes.dex
+4.set=NATIVE_RESOURCE
+3.path=lib/armeabi-v7a/libcronet.75.0.3756.0.so
+3.baseType=DIRECTORY
+1.set=DEX
+4.path=lib/x86/libcronet.75.0.3756.0.so
+1.baseType=DIRECTORY
+0.base=/Users/cuitao/code/build/cronet-testapp/app/build/intermediates/transforms/stripDebugSymbol/debug/0
+0.baseType=DIRECTORY
+3.set=NATIVE_RESOURCE
+1.base=/Users/cuitao/code/build/cronet-testapp/app/build/intermediates/transforms/dexMerger/debug/0
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE

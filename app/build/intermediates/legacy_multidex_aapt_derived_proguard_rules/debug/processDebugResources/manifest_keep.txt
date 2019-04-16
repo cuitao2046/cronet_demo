@@ -1,0 +1,4 @@
+# Referenced at /Users/cuitao/code/build/cronet-testapp/app/build/intermediates/merged_manifests/debug/x86/AndroidManifest.xml:18
+-keep class android.support.v4.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/cuitao/code/build/cronet-testapp/app/build/intermediates/merged_manifests/debug/x86/AndroidManifest.xml:18
+-keep class org.chromium.cronet_sample_apk.CronetSampleApplication { <init>(); }
